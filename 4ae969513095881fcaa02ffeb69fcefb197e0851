@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa7fdbe_09033d10",
+        "filename": "rubygem-string-scrub.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 326
+      },
+      "writtenOn": "2017-06-01T21:17:12Z",
+      "side": 1,
+      "message": "extraneous trailing whitespace?",
+      "revId": "4ae969513095881fcaa02ffeb69fcefb197e0851",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa7fdbe_24ff4803",
+        "filename": "rubygem-string-scrub.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 326
+      },
+      "writtenOn": "2017-06-01T21:17:12Z",
+      "side": 1,
+      "message": "you can get rid of the `%if/%endif`, just preserve the `Provides`",
+      "revId": "4ae969513095881fcaa02ffeb69fcefb197e0851",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
